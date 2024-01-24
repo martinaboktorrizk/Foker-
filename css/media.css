@@ -1,0 +1,22 @@
+@media only screen and (max-width:768px){
+    .home .navbar{
+        background-color: #333;
+        padding: 20px 0;
+        position: absolute;
+        right: 0;
+        left: 0;
+        z-index: 99999999999;
+    }
+    .home .navbar ul{
+        position: absolute;
+        background-color: aquamarine;
+        width: 100%;
+        left: 0;
+        
+    }
+    .home .navbar ul li {
+        float: none ;
+        padding: 18px;
+    }
+    
+}
